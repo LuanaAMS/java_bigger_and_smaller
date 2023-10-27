@@ -1,4 +1,4 @@
-# java_bigger_and_smaller
+# bigger and smaller grade in Java
 This program reads the grades of 5 students and prints the highest and lowest grades. 
 
 - The program begins by declaring five variables to store the grades.
